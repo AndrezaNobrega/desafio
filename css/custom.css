@@ -19,11 +19,10 @@ body, html{
     z-index: 9999;
 }
 
-#rodape ul {
+/* #rodape ul {
     margin: 0%;
     padding: 0;
-    display: flex;
-    justify-content: flex-start;
+    display: flex;    
 }
 
 #rodape ul li {
@@ -32,3 +31,14 @@ body, html{
     margin-left: 25px;
 
 }
+#rodape ul li a{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border: 20px;   
+}
+#rodape .cards {
+    display: flex;
+    list-style-type: none;    
+    justify-content: flex-end;
+} */
