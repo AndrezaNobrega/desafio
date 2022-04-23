@@ -6,7 +6,7 @@ body, html{
 /* HEADER  */
 
 .top-bar {
-    background: #555;
+    background: #3f51b5;
     color: #fff;
     font-size: 0.9rem;
     padding: 10px 0;
@@ -110,12 +110,6 @@ a:focus, a:hover {
     text-decoration: none;
 }
 
-#myFooter a:hover,
-#myFooter a:focus {
-    text-decoration: none;
-    color: white;
-}
-
 #myFooter .social-networks {
     text-align: center;
     padding-top: 30px;
@@ -181,7 +175,7 @@ body{
 
 #socialMedia {
     display: flex;
-    flex-direction: row;
+    flex-direction: row;    
 }
 
 #socialMedia li {
